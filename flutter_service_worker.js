@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {".git/config": "4748976379a23f9405de3b468b4e0c47",
+const RESOURCES = {".firebase/hosting.cHVibGlj.cache": "e98cbddc93dadae07706f016d069a14a",
+".git/config": "4748976379a23f9405de3b468b4e0c47",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
 ".git/HEAD": "4cf2d64e44205fe628ddd534e1151b58",
 ".git/hooks/applypatch-msg.sample": "ce562e08d8098926a3862fc6e7905199",
@@ -21,6 +22,8 @@ const RESOURCES = {".git/config": "4748976379a23f9405de3b468b4e0c47",
 ".git/hooks/sendemail-validate.sample": "4d67df3a8d5c98cb8565c07e42be0b04",
 ".git/hooks/update.sample": "647ae13c682f7827c22f5fc08a03674e",
 ".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
+".github/workflows/firebase-hosting-merge.yml": "18f2283ed83f73bafb08127adf45e020",
+".github/workflows/firebase-hosting-pull-request.yml": "310096f28a8509107bee83970e4c39bc",
 "assets/AssetManifest.bin": "66fcf6f708d84d9cc1b26803eaca1c29",
 "assets/AssetManifest.bin.json": "7abd176cf168dc3e9a111a87baf427ac",
 "assets/AssetManifest.json": "eb10b2fa45702a7f02cbd530134e0339",
@@ -42,15 +45,17 @@ const RESOURCES = {".git/config": "4748976379a23f9405de3b468b4e0c47",
 "canvaskit/skwasm.wasm": "2fc47c0a0c3c7af8542b601634fe9674",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"firebase.json": "ceb3227e948a2fffb08892a8749cf74e",
 "flutter.js": "59a12ab9d00ae8f8096fffc417b6e84f",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f1a0fae0b46ef3fa6e49958df983c102",
-"/": "f1a0fae0b46ef3fa6e49958df983c102",
+"index.html": "776b18e8e128205919591c8d7df53325",
+"/": "293818625d935ed6d802b239714d561c",
 "main.dart.js": "9bf07b2090659aec09f6c4dc147fa3c3",
 "manifest.json": "f35b4018669fc5aa46b388915a7a2485",
+"public/index.html": "293818625d935ed6d802b239714d561c",
 "version.json": "257b29dbf3e5d3c13ec6dc7295f59dc3"};
 // The application shell files that are downloaded before a service worker can
 // start.
